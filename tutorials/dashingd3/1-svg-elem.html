@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+  </head>
+
+  <body>
+
+    <!-- A circle -->
+
+  </body>
+
+
+    <script>
+
+    var SVGElement = d3.select("body").append("svg")
+
+    SVGElement
+      .attr("width", 50)
+      .attr("height", 50)
+      .append("circle")
+      .attr("cx", 25)
+      .attr("cy", 25)
+      .attr("r", 25)
+      .style("fill", "green");
+
+    var theData = [ 1, 2, 3 ];
+
+    // var p = d3.select("body").selectAll("p")
+    //           .data(theData)
+    //           .enter()
+    //           .append("p")
+    //           .text("hello ");
+
+
+  function AddTwo (d) {
+    var addedNumber = 2;
+    var tempNumber;
+    tempNumber = d + addedNumber;
+    return tempNumber;
+  }
+
+
+    // var p = d3.select("body").selectAll("p")
+    //   .data(theData)
+    //   .enter()
+    //   .append("p")
+    //   .text( function (d) { return d; } );
+
+    // var p = d3.select("body").selectAll("p")
+    //   .data(theData)
+    //   .enter()
+    //   .append("p")
+    //   .text( AddTwo );
+
+    var p = d3.select("body").selectAll("p")
+      .data(theData)
+      .enter()
+      .append("p")
+      .text(function (d, i) {
+        return "i = " + i + " d = "+ d;
+       });
+
+    </script>
+
+</html>
