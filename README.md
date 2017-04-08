@@ -31,6 +31,7 @@ Inspirational material about data visualisation.
 * [Visualising Urban Data Lab](http://vudlab.com/#/), contains D3 tutorials and vis works
 * [Setosa](http://setosa.io/#/)
 * [Gapminder](http://www.gapminder.org): H. Gosling's project, with software and data available for download
+* [Anna Powell-Smith](https://anna.ps)
 
 ## Just data sources
 
@@ -38,6 +39,6 @@ Where to find good data: links. See that some data is also available from the in
 
 ### Open data
 
-* [USMART](https://usmart.io/#/)
+* [USMART](https://usmart.io/#/), from [UrbanTide](https://urbantide.com)
 * [Scottish Open Data](http://statistics.gov.scot)
 
