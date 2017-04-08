@@ -13,6 +13,12 @@ Material in folder has been created from following tutorials about D3, separated
 * [Interactive Data Visualisations for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html): it's a beautiful O'Reilly book, this the free web version
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read), Malcolm Maclean, a book, very rich and easy to follow
 
+
+## Stuff to remember on using D3 for a project
+
+* can download D3 into project itself, full or minified version, see [here](http://chimera.labs.oreilly.com/books/1230000000345/ch04.html)
+* always put the meta tag in the head as `<meta charset="utf-8">`, as this ensures browser parses D3 right
+
 ## Inspiration & action
 
 Inspirational material about data visualisation.
