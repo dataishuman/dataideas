@@ -32,13 +32,17 @@ Inspirational material about data visualisation.
 * [Setosa](http://setosa.io/#/)
 * [Gapminder](http://www.gapminder.org): H. Gosling's project, with software and data available for download
 * [Anna Powell-Smith](https://anna.ps)
+* [G Lupi in being humans with data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data#t-661597)
 
 ## Just data sources
 
 Where to find good data: links. See that some data is also available from the inspirational resources above.
 
-### Open data
+### Open data official sources
 
-* [USMART](https://usmart.io/#/), from [UrbanTide](https://urbantide.com)
-* [Scottish Open Data](http://statistics.gov.scot)
+* [USMART](https://usmart.io/#/), from [UrbanTide](https://urbantide.com): repository of open data, mainly from Scotland/UK
+* [Scottish Open Data](http://statistics.gov.scot): the official open data from the Scottish government
 
+### Public datasets
+
+* [A Github list of awesome public datasets](https://github.com/panisson/awesome-public-datasets)
