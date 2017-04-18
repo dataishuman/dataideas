@@ -61,12 +61,26 @@ Where to find good data: links. See that some data is also available from the in
 * [USMART](https://usmart.io/#/), from [UrbanTide](https://urbantide.com): repository of open data, mainly from Scotland/UK
 * [Scottish Open Data](http://statistics.gov.scot): the official open data from the Scottish government
 * [Dati RAI](http://dati.rai.it): open data on Italy (politics and administration), from the Italian public TV broadcaster RAI
+* [data.gov](https://data.gov.uk): open data, US
 
-### Public datasets
+### Generic public datasets
 
 * [A Github list of public datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [Yahoo Research released datasets](https://webscope.sandbox.yahoo.com)
 * [Kaggle datasets](https://www.kaggle.com/datasets)
+* [data.world](https://data.world)
+* [Google Public](https://www.google.com/publicdata/directory)
+* [Academic Torrents](http://academictorrents.com)
 
+### Finance
 
+* [Quandl: stock market data](https://www.quandl.com)
+
+### Patents
+
+* [Google Patents](https://patents.google.com)
+
+### World & global development
+
+* [World Bank Open Data](http://data.worldbank.org)
