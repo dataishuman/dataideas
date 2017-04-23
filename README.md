@@ -1,6 +1,6 @@
-# The planner
+# The meeting room
 
-Dataishuman is our project on visualising data about the world. This repo here is where we plan things.
+Dataishuman is our project on visualising data about the world. This repo here is where we plan things, so it's the meeting room.
 
 Here we put all of the ideas about the projects we want to do in the website, develop prototypes and discuss them. Use the issues to log all ideas for interesting work to do.
 
