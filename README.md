@@ -88,6 +88,11 @@ Where to find good data: links. See that some data is also available from the in
 
 * [World Bank Open Data](http://data.worldbank.org)
 
+### Data on Wars
+
+* [Correlates of wars](http://www.correlatesofwar.org/data-sets/COW-war)
+
+
 ### Some small data used in statistics
 
 2. [“All of Statistics” (Larry Wasserman) Datasets](http://www.stat.cmu.edu/~larry/all-of-statistics/=data/)
