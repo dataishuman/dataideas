@@ -43,7 +43,6 @@ Inspirational material about data visualisation.
 * [Anna Powell-Smith](https://anna.ps)
 * [Seeing Theory](http://students.brown.edu/seeing-theory/index.html), a website on probability and statistics, visualised and interactive. This is one of the best things on the internet.
 
-
 ### Data Humanisation, the concept
 
 * [G Lupi in being humans with data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data#t-661597)
@@ -51,6 +50,10 @@ Inspirational material about data visualisation.
 ### Podcasts on data and visualisation
 
 * [Data Stories](http://datastori.es)
+
+### Interpreting data visualisation
+
+* [Lisa Charlotte Rost](https://lisacharlotterost.github.io)
 
 ## Data sources, free & open
 
@@ -84,3 +87,11 @@ Where to find good data: links. See that some data is also available from the in
 ### World & global development
 
 * [World Bank Open Data](http://data.worldbank.org)
+
+### Some small data used in statistics
+
+2. [“All of Statistics” (Larry Wasserman) Datasets](http://www.stat.cmu.edu/~larry/all-of-statistics/=data/)
+3. [Datasets form the webpage of John Burkardt](http://people.sc.fsu.edu/~jburkardt/datasets/datasets.html)
+4. [Datasets from the webpage of Larry Winner](http://www.stat.ufl.edu/~winner/datasets.html)
+5. [Data and Story Library](http://lib.stat.cmu.edu/DASL/)
+
