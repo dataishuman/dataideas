@@ -4,21 +4,6 @@ Dataishuman is our project on visualising data about the world. This repo here i
 
 Here we put all of the ideas about the projects we want to do in the website, develop prototypes and discuss them. Use the issues to log all ideas for interesting work to do.
 
-## Tutorials and reference material about D3
-
-Material in folder has been created from following tutorials about D3, separated by source. Every file contains a re-interpretation of something coming from the relative tutorial.
-
-* [dashingd3](https://www.dashingd3js.com/table-of-contents), Sebastian Gutierrez, a classic primer 
-* [alignedleft](http://alignedleft.com/tutorials/d3), Scott Murray, very useful bunch of code examples with explanation
-* [Interactive Data Visualisations for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html): it's a beautiful O'Reilly book, this the free web version
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read), Malcolm Maclean, a book, very rich and easy to follow
-
-
-## Stuff to remember on using D3 for a project
-
-* can download D3 into project itself, full or minified version, see [here](http://chimera.labs.oreilly.com/books/1230000000345/ch04.html)
-* always put the meta tag in the head as `<meta charset="utf-8">`, as this ensures browser parses D3 right
-
 ## Inspiration & action
 
 Inspirational material about data visualisation.
@@ -32,6 +17,7 @@ Inspirational material about data visualisation.
 * [visualisingdata](http://www.visualisingdata.com)
 * [Data is beautiful on Reddit](https://www.reddit.com/r/dataisbeautiful/)
 * [Data is ugly on Reddit](https://www.reddit.com/r/dataisugly/)
+* [Google search data, visualised](https://trends.google.com/trends/story/US_cu_6fXtAFIBAABWdM_en)
 
 ### Vis and Science
 
@@ -54,6 +40,10 @@ Inspirational material about data visualisation.
 ### Interpreting data visualisation
 
 * [Lisa Charlotte Rost](https://lisacharlotterost.github.io)
+
+### Detecting bullshit 
+
+* [a course from the Uni of Washington, hilarious](http://callingbullshit.org/syllabus.html)
 
 ## Data sources, free & open
 
@@ -83,6 +73,10 @@ Where to find good data: links. See that some data is also available from the in
 ### Patents
 
 * [Google Patents](https://patents.google.com)
+
+### Flights
+
+* [Real-time aviation data](https://planefinder.net/data/)
 
 ### World & global development
 
